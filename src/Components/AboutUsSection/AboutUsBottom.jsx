@@ -1,6 +1,6 @@
-import AboutUSBox1 from "../../assets/AboutUS/AboutUsBottomImg1.png";
-import AboutUSBox2 from "../../assets/AboutUS/AboutUsBottomImg2.png";
-import AboutUSBox3 from "../../assets/AboutUS/AboutUsBottomImg3.png";
+import AboutUSBox1 from "../../assets/AboutUS/temp1.png";
+import AboutUSBox2 from "../../assets/AboutUS/temp2.png";
+import AboutUSBox3 from "../../assets/AboutUS/temp3.png";
 import { FaRegHeart } from "react-icons/fa6";
 
 const items = [
