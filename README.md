@@ -4,7 +4,7 @@ A modern and fully responsive café website built with React and Tailwind CSS. M
 
 ---
 
-# 🌐 Live Demo: 👇
+## 🌐 Live Demo: 👇
 
 https://maison-caf-cd8n.vercel.app/
 
@@ -116,7 +116,7 @@ src
 
 ---
 
-# 📸 Preview
+## 📸 Preview
 
 [Watch Maison Café Demo](https://www.linkedin.com/posts/abhishek-akkal-0a0ab62b2_100daysofcode-reactjs-webdevelopment-ugcPost-7470839473786843136-pqwV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtE-_gB_Calzo0B_hiKlaIm_F6R5PuI0mk)
 
