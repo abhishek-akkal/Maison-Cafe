@@ -1,5 +1,5 @@
 import GoogleLogo from "../../assets/SignIn/GoogleLogo.png";
-import GitHubLOgo from "../../assets/SignIn/gitHubLogo.png";
+import GitHubLogo from "../../assets/SignIn/GitHubLogo.png";
 
 const handleGoogle = () => {
   alert(
@@ -60,7 +60,7 @@ const SignIn = () => {
           onClick={handleGitHub}
           className="flex items-center justify-center gap-4 w-full mt-4 h-12 bg-gray-800 text-white rounded-xl font-medium hover:bg-black active:scale-95 transition cursor-pointer"
         >
-          <img src={GitHubLOgo} alt="GitHub" className="h-7 object-contain" />
+          <img src={GitHubLogo} alt="GitHub" className="h-7 object-contain" />
           <span className="text-sm sm:text-base">Continue with GitHub</span>
         </div>
 
